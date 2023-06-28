@@ -5,7 +5,7 @@ const About = () => {
     <>
       <div className="flex-col flex md:flex-row gap-3">
         <div className="flex lg:justify-start justify-center">
-        <p className="text-7xl mx-1  w-fit  my-2 lg:text-start text-center p-2  font-CG text-[#1890d7] break-words whitespace-normal sm:text-left">
+        <p className="md:text-7xl text-6xl mx-1  w-fit  my-2 lg:text-start text-center p-2  font-CG text-[#1890d7] break-words whitespace-normal sm:text-left">
           This is the <br />
           <span className="whitespace-nowrap">Hunza Valley!</span>
         </p>
