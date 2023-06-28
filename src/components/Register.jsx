@@ -28,7 +28,7 @@ const Register = () => {
               placeholder="Email"
               className="text-[#1890d7] bg-[#F6FBFE] placeholder:text-[#1890d7]  p-2  border-b-2 border-[#1890d7] outline-none focus:ring-2 focus:ring-[#1890d7]"
             />
-             <div className="flex justify-end">
+             <div className="flex justify-end my-2">
             <button type="submit" className="text-[#1890d7] underline font-semibold text-lg transition-transform hover:scale-95">Submit</button>
           </div>
           </div>
