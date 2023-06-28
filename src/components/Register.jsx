@@ -3,16 +3,16 @@ import React from "react";
 const Register = () => {
   return (
     <>
-      <div className="p-3">
-        <h1 className="font-CG md:text-7xl text-5xl whitespace-nowrap font-medium text-[#1890d7]">
+      <div className="p-2">
+        <h1 className="font-CG md:text-7xl text-4xl whitespace-nowrap font-semibold text-[#1890d7]">
           Find Yourself in Hunza
         </h1>
 
         <div className="my-5">
-          <h2 className="font-epi mb-3 font-medium text-3xl text-[#1890d7]">
+          <h2 className="font-epi mb-3 md:font-medium font-light text-3xl text-[#1890d7]">
             Register Your Interest
           </h2>
-          <div className="flex flex-col gap-4  font-epi sm:w-1/3 p-2">
+          <div className="flex flex-col gap:4  font-epi sm:w-1/3 p-2">
             <input
               type="text"
               placeholder="Name"
